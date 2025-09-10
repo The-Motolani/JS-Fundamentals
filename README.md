@@ -17,3 +17,10 @@ Week 3 ALX FrontEnd project on Javascript that requires writing a script that pr
 
 ## 5. [An Integer](https://github.com/The-Motolani/JS-Fundamentals/blob/main/5-to_integer.js)
 Week 3 ALX FrontEnd project on Javascript that requires writing a script that prints `My number: <first argument converted in integer>` if the first argument can be converted to an integer. If the argument can’t be converted to an integer, the script is required to print *Not a number* with the use of `console.log(...)` to print all output ensuring to avoid the use of `var`, `try`, `catch`.
+
+## 6 [Loop to languages]()
+Week 3 ALX FrontEnd project on Javascript that requires writing a script that prints 3 lines: (like `1-multi_languages.js`) but by using an array of string and a loop.
+The first line: *"C is fun"*
+The second line: *“Python is cool”*
+The third line: *“JavaScript is amazing”*
+Using `console.log(...)` to print all output, making sure to avoid the use of `var`, `if/else statement`, and using only one `console.log` and the use of a loop either `for`loop or `while` loop but i opted for the use of the `for` loop.
