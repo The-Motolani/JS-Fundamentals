@@ -25,8 +25,12 @@ The second line: *“Python is cool”*
 The third line: *“JavaScript is amazing”*
 Using `console.log(...)` to print all output, making sure to avoid the use of `var`, `if/else statement`, and using only one `console.log` and the use of a loop either `for`loop or `while` loop but i opted for the use of the `for` loop.
 
-## 7. [I love C]()
+## 7. [I love C](https://github.com/The-Motolani/JS-Fundamentals/blob/main/7-multi_c.js)
 Week 3 ALX FrontEnd project on Javascript that requires writing a script that prints `x` times *“C is fun”*
 Where `x` is the first argument of the script
 If the first argument can’t be converted to an integer, print “Missing number of occurrences”
-making sure to use only 2`console.log(...)` to print all output and a loop (while, for, etc.) and avoiding the use of `var`.
+making sure to use only 2`console.log(...)` to print all output and a loop (while, for, etc.) and avoiding the use of `var`. I opted for the use of the `if` loop.
+
+## 8. [Square]()
+Week 3 ALX FrontEnd project on Javascript that requires writing a script that prints a square ensuring the first argument is the size of the square and checking if the first argument can’t be converted to an integer, it prints “Missing size” and using the character X to print the square. 
+Making sure to use `console.log(...)` to print all output and a loop (while, for, etc.) avoiding the use of `var`.
