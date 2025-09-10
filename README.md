@@ -13,7 +13,7 @@ Week 3 ALX FrontEnd project 2 on JavaScript that requires writing a script that 
 Week 3 ALX FrontEnd project on Javascript that requires writing a script that prints the  the first argument passed to it and if no arguments are passed to the script, it print “No argument”, using console.log(...) to print all output and ensuring to avoid the use `var` or *length*.
 
 ## 4. [Create a sentence](https://github.com/The-Motolani/JS-Fundamentals/blob/main/4-concat.js)
-Week 3 ALX FrontEnd project on Javascript that requires writing a script that prints two arguments passed to it, concantenating with the use of * is * using `console.log(...)` to print all output and ensuring to avoid the use of `var` i.e if two arguments like *C* and *cool* are passed to it, it should return `C is Cool`
+Week 3 ALX FrontEnd project on Javascript that requires writing a script that prints two arguments passed to it, concantenating with the use of *is* using `console.log(...)` to print all output and ensuring to avoid the use of `var` i.e if two arguments like *C* and *cool* are passed to it, it should return `C is Cool`
 
-## 5. [An Integer]()
+## 5. [An Integer](https://github.com/The-Motolani/JS-Fundamentals/blob/main/5-to_integer.js)
 Week 3 ALX FrontEnd project on Javascript that requires writing a script that prints `My number: <first argument converted in integer>` if the first argument can be converted to an integer. If the argument can’t be converted to an integer, the script is required to print *Not a number* with the use of `console.log(...)` to print all output ensuring to avoid the use of `var`, `try`, `catch`.
