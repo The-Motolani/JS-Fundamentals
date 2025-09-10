@@ -31,6 +31,9 @@ Where `x` is the first argument of the script
 If the first argument can’t be converted to an integer, print “Missing number of occurrences”
 making sure to use only 2`console.log(...)` to print all output and a loop (while, for, etc.) and avoiding the use of `var`. I opted for the use of the `if` loop.
 
-## 8. [Square]()
+## 8. [Square](https://github.com/The-Motolani/JS-Fundamentals/blob/main/8-square.js)
 Week 3 ALX FrontEnd project on Javascript that requires writing a script that prints a square ensuring the first argument is the size of the square and checking if the first argument can’t be converted to an integer, it prints “Missing size” and using the character X to print the square. 
 Making sure to use `console.log(...)` to print all output and a loop (while, for, etc.) avoiding the use of `var`.
+
+## 9. [Add](https://github.com/The-Motolani/JS-Fundamentals/blob/main/9-add.js)
+Week 3 ALX FrontEnd project on Javascript that requires writing a script that prints the addition of 2 integers with the first argument being the first integer and the second argument the second integer while defining a function with this prototype: `function add(a, b)` ensuring to use `console.log(...)` to print all output and avoid the use of `var`.
