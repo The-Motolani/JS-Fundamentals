@@ -37,3 +37,12 @@ Making sure to use `console.log(...)` to print all output and a loop (while, for
 
 ## 9. [Add](https://github.com/The-Motolani/JS-Fundamentals/blob/main/9-add.js)
 Week 3 ALX FrontEnd project on Javascript that requires writing a script that prints the addition of 2 integers with the first argument being the first integer and the second argument the second integer while defining a function with this prototype: `function add(a, b)` ensuring to use `console.log(...)` to print all output and avoid the use of `var`.
+
+## 10. []()
+Week 3 ALX FrontEnd project on Javascript that requires writing a script that computes and prints a factorial with first argument being the integer (argument can be cast as integer) used for computing the factorial
+### Requirements
+Factorial of `NaN` is 1
+It is done recursively
+Had the use of a function
+Used `console.log(...)` to print all output.
+Avoided the use of `var`. 
