@@ -26,8 +26,8 @@ The repository also follows coding constraints like:
 
 ## 0. [First Constant, First Print](./0-javascript_is_amazing.js)  
 Prints the string:  
-`$ node 0-javascript_is_amazing.js
-JavaScript is amazing`
+`$ node 0-javascript_is_amazing.js      
+JavaScript is amazing`   
 
 **Requirements:**
 Avoid the use of `var`.
@@ -36,10 +36,10 @@ Avoid the use of `var`.
 
 ## 1. [3 Languages](./1-multi_languages.js)
 Prints three lines:
-`$ node 1-multi_languages.js
-C is fun
-Python is cool
-JavaScript is amazing`
+`$ node 1-multi_languages.js      
+C is fun     
+Python is cool     
+JavaScript is amazing`  
  
 **Requirements:**
 No var.
@@ -48,14 +48,14 @@ No var.
 
 ## 2. [Arguments](./2-arguments.js)
 Prints a message depending on the number of arguments passed:
-`$ node 2-arguments.js
-No argument
+`$ node 2-arguments.js     
+No argument    
 
-$ node 2-arguments.js School
-Argument found
+$ node 2-arguments.js School     
+Argument found     
 
-$ node 2-arguments.js School Best
-Arguments found`
+$ node 2-arguments.js School Best     
+Arguments found`    
 
 **Requirements:**
 No `var`.
@@ -63,10 +63,10 @@ Used [process.argv](https://nodejs.org/api/process.html#process_process_argv) as
 
 ## 3. [Value of My Argument](./3-value_argument.js)
 Prints the first argument, or "No argument" if none is passed:
-`$ node 3-value_argument.js
-No argument
+`$ node 3-value_argument.js     
+No argument    
 
-$ node 3-value_argument.js School
+$ node 3-value_argument.js School     
 School`
 
 **Requirements:**
@@ -77,10 +77,10 @@ No `.length`.
 
 ## 4. [](./4-concat.js)
 Prints the first argument, or "No argument" if none is passed:
-`$ node 3-value_argument.js
+`$ node 3-value_argument.js    
 No argument
-
-$ node 3-value_argument.js School
+    
+$ node 3-value_argument.js School    
 School
 `
 
