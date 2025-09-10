@@ -26,7 +26,6 @@ The repository also follows coding constraints like:
 
 ## 0. [First Constant, First Print](./0-javascript_is_amazing.js)  
 Prints the string:  
-```bash
 `$ node 0-javascript_is_amazing.js
 JavaScript is amazing`
 
