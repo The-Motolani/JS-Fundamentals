@@ -29,7 +29,6 @@ Prints the string:
 
 ```
 $ node 0-javascript_is_amazing.js
-
 JavaScript is amazing
 ```   
 
@@ -43,11 +42,8 @@ Prints three lines:
 
 ```
 $ node 1-multi_languages.js 
-
 C is fun
-
 Python is cool  
-
 JavaScript is amazing
 ```
 
@@ -61,15 +57,10 @@ Prints a message depending on the number of arguments passed:
 
 ```
 $ node 2-arguments.js
-
 No argument 
-
 $ node 2-arguments.js School
-
 Argument found  
-
 $ node 2-arguments.js School Best
-
 Arguments found
 ```
 
@@ -82,7 +73,6 @@ Prints the first argument, or "No argument" if none is passed:
 
 ```
 $ node 3-value_argument.js 
-
 No argument
 
 $ node 3-value_argument.js School   
@@ -100,7 +90,6 @@ Concatenates two arguments with the word **“is”**:
 
 ``` 
 $ node 4-concat.js C cool
-
 C is cool 
 ```
 
@@ -116,11 +105,9 @@ Prints the first argument as an integer, or "Not a number" if invalid:
 
 ```
 $ node 5-to_integer.js 12
-
 My number: 12
 
 $ node 5-to_integer.js hello
-
 Not a number
 ```
 
@@ -134,11 +121,8 @@ Prints three lines (like task 2), but uses an array and a loop:
 
 ```
 $ node 6-multi_languages_loop.js
-
 C is fun
-
 Python is cool
-
 JavaScript is amazing
 ```
 
@@ -154,11 +138,8 @@ Prints "C is fun" x times, where x is the first argument:
 
 ```
 $ node 7-multi_c.js 3
-
 C is fun
-
 C is fun
-
 C is fun
 ```
 
@@ -175,13 +156,9 @@ Prints a square of "X" characters:
 
 ```
 $ node 8-square.js 4
-
 XXXX
-
 XXXX
-
 XXXX
-
 XXXX
 ```
 
@@ -198,7 +175,6 @@ Prints the sum of two integers:
 
 ```
 $ node 9-add.js 3 5
-
 8
 ```
 
@@ -214,7 +190,6 @@ Computes and prints the factorial of a number recursively:
 
 ```
 $ node 10-factorial.js 4
-
 24
 ```
 
