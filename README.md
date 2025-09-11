@@ -27,9 +27,9 @@ The repository also follows coding constraints like:
 ## 0. [First Constant, First Print](./0-javascript_is_amazing.js)  
 Prints the string: 
 
-`$ node 0-javascript_is_amazing.js
+```$ node 0-javascript_is_amazing.js
 
-JavaScript is amazing`   
+JavaScript is amazing```   
 
 **Requirements:**
 - Avoid the use of `var`.
@@ -39,13 +39,13 @@ JavaScript is amazing`
 ## 1. [3 Languages](./1-multi_languages.js)
 Prints three lines:
 
-`$ node 1-multi_languages.js 
+```$ node 1-multi_languages.js 
 
 C is fun
 
 Python is cool  
 
-JavaScript is amazing` 
+JavaScript is amazing```
 
 **Requirements:**
 - No var.
@@ -55,7 +55,7 @@ JavaScript is amazing`
 ## 2. [Arguments](./2-arguments.js)
 Prints a message depending on the number of arguments passed:
 
-`$ node 2-arguments.js
+```$ node 2-arguments.js
 
 No argument 
 
@@ -65,7 +65,7 @@ Argument found
 
 $ node 2-arguments.js School Best
 
-Arguments found` 
+Arguments found```
 
 **Requirements:**
 - No `var`.
@@ -74,12 +74,12 @@ Arguments found`
 ## 3. [Value of My Argument](./3-value_argument.js)
 Prints the first argument, or "No argument" if none is passed:
 
-`$ node 3-value_argument.js 
+```$ node 3-value_argument.js 
 
 No argument
 
 $ node 3-value_argument.js School   
-School`
+School```
 
 **Requirements:**
 - No `var`.
@@ -90,9 +90,9 @@ School`
 ## 4. [Create a sentence](./4-concat.js)
 Concatenates two arguments with the word **“is”**:
 
-` $ node 4-concat.js C cool
+``` $ node 4-concat.js C cool
 
-C is cool ` 
+C is cool ```
 
 **Requirements:**
 - Use `console.log(...)`.
@@ -104,14 +104,14 @@ C is cool `
 ## 5. [An Integer](./5-to_integer.js)
 Prints the first argument as an integer, or "Not a number" if invalid:
 
-`
+```
 $ node 5-to_integer.js 12
 
 My number: 12
 
 $ node 5-to_integer.js hello
 
-Not a number`
+Not a number```
 
 **Requirements:**
 - No `var`, `try`, or `catch`.
@@ -121,7 +121,7 @@ Not a number`
 ## 6. [Loop to languages](./6-multi_languages_loop.js)
 Prints three lines (like task 2), but uses an array and a loop:
 
-`
+```
 $ node 6-multi_languages_loop.js
 
 C is fun
@@ -129,7 +129,7 @@ C is fun
 Python is cool
 
 JavaScript is amazing
-`
+```
 
 **Requirements:**
 - Use a loop (`for` or `while`).
@@ -141,7 +141,7 @@ JavaScript is amazing
 ## 7. [I love C](./7-multi_c.js)
 Prints "C is fun" x times, where x is the first argument:
 
-`
+```
 $ node 7-multi_c.js 3
 
 C is fun
@@ -149,7 +149,7 @@ C is fun
 C is fun
 
 C is fun
-`
+```
 
 **Requirements:**
 - If `x` is not an integer, print `"Missing number of occurrences"`.
@@ -162,7 +162,7 @@ C is fun
 ## 8. [Square](./8-square.js)
 Prints a square of "X" characters:
 
-`
+```
 $ node 8-square.js 4
 
 XXXX
@@ -172,7 +172,7 @@ XXXX
 XXXX
 
 XXXX
-`
+```
 
 **Requirements:**
 - Argument is the size of the square.
@@ -185,11 +185,11 @@ XXXX
 ## 9. [Add](./9-add.js)
 Prints the sum of two integers:
 
-`
+```
 $ node 9-add.js 3 5
 
 8
-`
+```
 
 **Requirements:**
 - Define a function: `function add(a, b)`.
@@ -201,11 +201,11 @@ $ node 9-add.js 3 5
 ## 10. [Factorial](./10-factorial.js)
 Computes and prints the factorial of a number recursively:
 
-`
+```
 $ node 10-factorial.js 4
 
 24
-`
+```
 
 **Requirements:**
 - Factorial of `NaN` is `1`.
