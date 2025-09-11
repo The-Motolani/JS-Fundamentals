@@ -26,7 +26,7 @@ The repository also follows coding constraints like:
 
 ## 0. [First Constant, First Print](./0-javascript_is_amazing.js)  
 Prints the string:  
-`$ node 0-javascript_is_amazing.js      
+`$ node 0-javascript_is_amazing.js <br>    
 JavaScript is amazing`   
 
 **Requirements:**
@@ -36,52 +36,52 @@ Avoid the use of `var`.
 
 ## 1. [3 Languages](./1-multi_languages.js)
 Prints three lines:
-`$ node 1-multi_languages.js      
-C is fun     
-Python is cool     
-JavaScript is amazing`  
+`$ node 1-multi_languages.js <br>      
+C is fun     <br>
+Python is cool  <br>   
+JavaScript is amazing` <br>  
  
 **Requirements:**
-No var.
+<p>No var.</p>
 
 ---
 
 ## 2. [Arguments](./2-arguments.js)
 Prints a message depending on the number of arguments passed:
-`$ node 2-arguments.js     
-No argument    
+`$ node 2-arguments.js    <br> 
+No argument    <br>
 
-$ node 2-arguments.js School     
-Argument found     
+$ node 2-arguments.js School <br>     
+Argument found  <br>
 
-$ node 2-arguments.js School Best     
-Arguments found`    
+$ node 2-arguments.js School Best <br>     
+Arguments found` 
 
-**Requirements:**
-No `var`.
+**Requirements:** <br>
+No `var`. <br>
 Used [process.argv](https://nodejs.org/api/process.html#process_process_argv) as a reference.
 
 ## 3. [Value of My Argument](./3-value_argument.js)
 Prints the first argument, or "No argument" if none is passed:
-`$ node 3-value_argument.js     
-No argument    
+`$ node 3-value_argument.js     <br>
+No argument    <br>
 
-$ node 3-value_argument.js School     
+$ node 3-value_argument.js School  <br>   
 School`
 
-**Requirements:**
-No `var`.
+**Requirements:**<br>
+No `var`. <br>
 No `.length`.
 
 ---
 
 ## 4. [](./4-concat.js)
 Prints the first argument, or "No argument" if none is passed:
-`$ node 3-value_argument.js    
-No argument
+`$ node 3-value_argument.js    <br>
+No argument <br>
     
-$ node 3-value_argument.js School    
-School
+$ node 3-value_argument.js School   <br> 
+School 
 `
 
 ---
