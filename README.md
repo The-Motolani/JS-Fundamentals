@@ -25,24 +25,24 @@ The repository also follows coding constraints like:
 ---
 
 ## 0. [First Constant, First Print](./0-javascript_is_amazing.js)  
-Prints the string:  
+Prints the string:  <br> 
 `$ node 0-javascript_is_amazing.js <br>    
 JavaScript is amazing`   
 
-**Requirements:**
+**Requirements:** <br>
 Avoid the use of `var`.
 
 ---
 
 ## 1. [3 Languages](./1-multi_languages.js)
-Prints three lines:
+Prints three lines:<br>
 `$ node 1-multi_languages.js <br>      
 C is fun     <br>
 Python is cool  <br>   
 JavaScript is amazing` <br>  
  
-**Requirements:**
-<p>No var.</p>
+**Requirements:** <br>
+No var.
 
 ---
 
@@ -83,12 +83,23 @@ No argument <br>
 $ node 3-value_argument.js School   <br> 
 School 
 `
+---
+
+## 5. [An Integer](./5-to_integer.js)
+Concatenates two arguments with the word **“is”**:
+`$ node 4-concat.js C cool
+
+C is cool` 
+
+**Requirements:**
+- Use `console.log(...)`.
+
+- No `var`.
 
 ---
 
-## 5. [](./5-to_integer.js)
-## 6. [](./6-multi_languages_loop.js)
-## 7. [](./7-multi_c.js)
-## 8. [](./8-square.js)
-## 9. [](./9-add.js)
+## 6. [Loop to languages](./6-multi_languages_loop.js)
+## 7. [I love C](./7-multi_c.js)
+## 8. [Square](./8-square.js)
+## 9. [Add](./9-add.js)
 ## 10. [Factorial](./10-factorial.js)
