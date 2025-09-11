@@ -27,7 +27,8 @@ The repository also follows coding constraints like:
 ## 0. [First Constant, First Print](./0-javascript_is_amazing.js)  
 Prints the string: 
 
-```$ node 0-javascript_is_amazing.js
+```
+$ node 0-javascript_is_amazing.js
 
 JavaScript is amazing
 ```   
@@ -40,7 +41,8 @@ JavaScript is amazing
 ## 1. [3 Languages](./1-multi_languages.js)
 Prints three lines:
 
-```$ node 1-multi_languages.js 
+```
+$ node 1-multi_languages.js 
 
 C is fun
 
@@ -57,7 +59,8 @@ JavaScript is amazing
 ## 2. [Arguments](./2-arguments.js)
 Prints a message depending on the number of arguments passed:
 
-```$ node 2-arguments.js
+```
+$ node 2-arguments.js
 
 No argument 
 
@@ -77,7 +80,8 @@ Arguments found
 ## 3. [Value of My Argument](./3-value_argument.js)
 Prints the first argument, or "No argument" if none is passed:
 
-```$ node 3-value_argument.js 
+```
+$ node 3-value_argument.js 
 
 No argument
 
@@ -94,7 +98,8 @@ School
 ## 4. [Create a sentence](./4-concat.js)
 Concatenates two arguments with the word **“is”**:
 
-``` $ node 4-concat.js C cool
+``` 
+$ node 4-concat.js C cool
 
 C is cool 
 ```
