@@ -29,7 +29,8 @@ Prints the string:
 
 ```$ node 0-javascript_is_amazing.js
 
-JavaScript is amazing```   
+JavaScript is amazing
+```   
 
 **Requirements:**
 - Avoid the use of `var`.
@@ -45,7 +46,8 @@ C is fun
 
 Python is cool  
 
-JavaScript is amazing```
+JavaScript is amazing
+```
 
 **Requirements:**
 - No var.
@@ -65,7 +67,8 @@ Argument found
 
 $ node 2-arguments.js School Best
 
-Arguments found```
+Arguments found
+```
 
 **Requirements:**
 - No `var`.
@@ -79,7 +82,8 @@ Prints the first argument, or "No argument" if none is passed:
 No argument
 
 $ node 3-value_argument.js School   
-School```
+School
+```
 
 **Requirements:**
 - No `var`.
@@ -92,7 +96,8 @@ Concatenates two arguments with the word **“is”**:
 
 ``` $ node 4-concat.js C cool
 
-C is cool ```
+C is cool 
+```
 
 **Requirements:**
 - Use `console.log(...)`.
@@ -111,7 +116,8 @@ My number: 12
 
 $ node 5-to_integer.js hello
 
-Not a number```
+Not a number
+```
 
 **Requirements:**
 - No `var`, `try`, or `catch`.
